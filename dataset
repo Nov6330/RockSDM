@@ -1,0 +1,3 @@
+This dataset contains paired rock masks and real rock images for training the image generation model.  
+Source: North Sea Sandstone Dataset from https://www.digitalrocksportal.org/
+Sandstone BSE EPMA Dataset from https://github.com/Rasheed-79/Quartz_cement_segmentation/tree/main/Data
